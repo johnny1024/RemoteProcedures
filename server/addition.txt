@@ -1,0 +1,2 @@
+2
+Arg 1 - number 1, Arg 2 - number 2, Result - sum of number 1 and 2.

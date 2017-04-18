@@ -1,0 +1,2 @@
+2
+Arg 1 - base, Arg 2 - index, Result - base to the power of index.
